@@ -1,5 +1,4 @@
 console.log("shivam")
-
  let count =0;
  count = document.getElementById("count").innerText;
 
